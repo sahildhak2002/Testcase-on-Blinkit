@@ -1,8 +1,8 @@
 # Testcase-on-Blinkit
-✅ Project Description: Blinkit Functional Testing Report
+# Project Description: Blinkit Functional Testing Report
 This test report focuses on verifying the core functionalities of the Blinkit web application. The purpose of this testing is to ensure that all major user-interactive components are functioning correctly and providing a seamless user experience. The testing was conducted manually, and each functionality was verified using positive test cases.
 
-🔍 Test Scope:
+# Test Scope:
 The following features were tested:
 
 Search Bar – Allows users to search for grocery or product items.
@@ -21,13 +21,13 @@ Social Media Links – Redirects to official Blinkit social profiles (Facebook, 
 
 Add (+) Button – Adds items to the cart with a simple tap or click.
 
-✅ Test Environment:
+# Test Environment:
 Platform: Web (Desktop + Mobile View tested)
 
 Browser: Google Chrome (Latest Version)
 
 Status: All test cases passed successfully
 
-🧪 Result Summary:
+# Result Summary:
 Each tested feature worked as expected. No UI issues, broken links, or navigation problems were encountered. The system responded promptly, and the user flow from product selection to cart operations was smooth.
 
